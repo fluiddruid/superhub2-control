@@ -1,2 +1,2 @@
 # superhub2-control
-A Python module to control the Virgin Media Super hub 2
+A Python module to control the Virgin Media Super Hub 2
